@@ -1,1 +1,11 @@
+aws-devops/
+└── day-14/
+    └── simple-python-app/
+        ├── app.py
+        ├── requirements.txt
+        ├── Dockerfile
+        ├── appspec.yml
+        └── scripts/
+            ├── start_container.sh
+            └── stop_container.sh
 
